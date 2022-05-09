@@ -1,14 +1,12 @@
 import _ from 'lodash';
-import '../src/style.css';
+import Leader from './modules/leaderboard.js';
+import Score from './modules/score.js';
 
-function component() {
-    const element = document.createElement('div');
-  
-    // Lodash, now imported by this script
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-    element.classList.add('hello');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+const leaderboard = new Leader();
+
+const display = (scoreObj) => {
+  const template = `<li>
+                        <span>${scoreObj.name}</span>
+                        <span>${scoreObj.score}</span>
+                    </li>`
+}
