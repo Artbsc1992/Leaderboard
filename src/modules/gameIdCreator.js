@@ -2,11 +2,10 @@
 
 const prevApi = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/';
 const endpoint = async () => {
-  const xd = await fetch(prevApi, {
+  await fetch(prevApi, {
     method: 'POST',
-    headers: {'Content-Type': 'application/json'},
-    body: JSON.stringify({name: 'new game name'})
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ name: 'new game name' }),
   });
-  console.log(xd.text());
-}
+};
 endpoint();

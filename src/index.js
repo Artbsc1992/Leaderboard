@@ -1,6 +1,6 @@
 import './style.css';
 import { setScores } from './modules/API.js';
-import { displayPlayers } from './modules/display.js';
+import displayPlayers from './modules/display.js';
 
 const submit = document.getElementById('submit');
 const refresh = document.querySelector('.refresh');
@@ -10,11 +10,11 @@ const score = document.getElementById('score');
 displayPlayers();
 
 refresh.addEventListener('click', () => {
-    displayPlayers();
+  displayPlayers();
 });
 
 submit.addEventListener('click', () => {
-    setScores(name.value, score.value);
-    name.value= '';
-    score.value= '';
+  setScores(name.value, score.value);
+  name.value = '';
+  score.value = '';
 });
