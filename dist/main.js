@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"body {\\r\\n  box-sizing: border-box;\\r\\n  display: flex;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  height: 100vh;\\r\\n  background:\\r\\n    -webkit-gradient(\\r\\n      linear,\\r\\n      left top,\\r\\n      left bottom,\\r\\n      color-stop(0, #fff),\\r\\n      color-stop(1, #ff88)\\r\\n    );\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  background:\\r\\n    -webkit-gradient(\\r\\n      linear,\\r\\n      left bottom,\\r\\n      right top,\\r\\n      color-stop(0, #fff),\\r\\n      color-stop(1, #33a329)\\r\\n    );\\r\\n  border-radius: 20px;\\r\\n  height: auto;\\r\\n  width: 65%;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -webkit-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -moz-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n}\\r\\n\\r\\n.leaderboard {\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  padding: 50px;\\r\\n  width: 300px;\\r\\n}\\r\\n\\r\\n.title {\\r\\n  font-size: 40px;\\r\\n}\\r\\n\\r\\nform {\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  padding: 50px;\\r\\n}\\r\\n\\r\\n.submit {\\r\\n  align-self: flex-end;\\r\\n}\\r\\n\\r\\nul {\\r\\n  list-style: none;\\r\\n  padding: 0;\\r\\n  border: 5px solid green;\\r\\n  width: 90%;\\r\\n  background-color: #fff;\\r\\n  border-radius: 10px;\\r\\n}\\r\\n\\r\\nul li {\\r\\n  padding: 5px;\\r\\n}\\r\\n\\r\\nul li:nth-child(odd) {\\r\\n  background-color: beige;\\r\\n}\\r\\n\\r\\n.add-score {\\r\\n  font-size: 35px;\\r\\n}\\r\\n\\r\\n#name {\\r\\n  margin-bottom: 10px;\\r\\n}\\r\\n\\r\\n@media screen and (max-width: 768px) {\\r\\n  main {\\r\\n    flex-direction: column-reverse;\\r\\n  }\\r\\n\\r\\n  .title {\\r\\n    font-size: 30px;\\r\\n    text-align: center;\\r\\n  }\\r\\n\\r\\n  .title2 {\\r\\n    text-align: center;\\r\\n  }\\r\\n\\r\\n  ul {\\r\\n    align-self: center;\\r\\n    max-width: 65%;\\r\\n  }\\r\\n\\r\\n  ul li {\\r\\n    text-align: center;\\r\\n  }\\r\\n}\\r\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack_template/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../../../../../../../src/fonts/darkxshadowx215c27s_skyrim_font-webfont.woff2 */ \"./src/fonts/darkxshadowx215c27s_skyrim_font-webfont.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./img/skyrimg_background.jpg */ \"./src/img/skyrimg_background.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./img/PikPng.com_skyrim-logo-png_2942489.png */ \"./src/img/PikPng.com_skyrim-logo-png_2942489.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ./img/line-dragon-frame-47eceda9a578f549d0de9483f68a9700.png */ \"./src/img/line-dragon-frame-47eceda9a578f549d0de9483f68a9700.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\r\\n  font-family: 'skyrim';\\r\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \") format('woff2');\\r\\n  font-weight: normal;\\r\\n  font-style: normal;\\r\\n\\r\\n}\\r\\n\\r\\nbody {\\r\\n  box-sizing: border-box;\\r\\n  display: flex;\\r\\n  justify-content: center;\\r\\n  align-items: center;\\r\\n  height: 100vh;\\r\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\r\\n}\\r\\n\\r\\nmain {\\r\\n  display: flex;\\r\\n  border-radius: 20px;\\r\\n  height: auto;\\r\\n  width: 65%;\\r\\n  justify-content: space-between;\\r\\n  align-items: center;\\r\\n  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -webkit-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -moz-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\r\\n  background-repeat: no-repeat;\\r\\n  background-position: top right;\\r\\n  background-size: 700px;\\r\\n}\\r\\n\\r\\n.leaderboard {\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  padding: 50px;\\r\\n  width: 300px;\\r\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \");\\r\\n  background-repeat: no-repeat;\\r\\n  background-position-x: 58%;\\r\\n  background-position-y: 95%; \\r\\n  background-size: 810px 530px;\\r\\n}\\r\\n\\r\\n::-webkit-scrollbar {\\r\\n  width: 14px;\\r\\n  height: 14px;\\r\\n}\\r\\n::-webkit-scrollbar-button {\\r\\n  width: 0px;\\r\\n  height: 0px;\\r\\n}\\r\\n::-webkit-scrollbar-thumb {\\r\\n  background: #0c0b0b;\\r\\n  border: 0px none #ffffff;\\r\\n  border-radius: 50px;\\r\\n}\\r\\n::-webkit-scrollbar-thumb:hover {\\r\\n  background: #ffffff;\\r\\n}\\r\\n::-webkit-scrollbar-thumb:active {\\r\\n  background: #000000;\\r\\n}\\r\\n::-webkit-scrollbar-track {\\r\\n  background: #e05b2e;\\r\\n  border: 0px none #ffffff;\\r\\n  border-radius: 46px;\\r\\n}\\r\\n::-webkit-scrollbar-track:hover {\\r\\n  background: #e05b2e;\\r\\n}\\r\\n::-webkit-scrollbar-track:active {\\r\\n  background: #b70606;\\r\\n}\\r\\n::-webkit-scrollbar-corner {\\r\\n  background: transparent;\\r\\n}\\r\\n\\r\\n.title {\\r\\n  font-size: 50px;\\r\\n  font-family: 'skyrim', sans-serif;\\r\\n  background: #BABABA;\\r\\n  background: radial-gradient(circle farthest-corner at bottom right, #BABABA 0%, #FFFFFF 100%);\\r\\n  -webkit-background-clip: text;\\r\\n  -webkit-text-fill-color: transparent;\\r\\n}\\r\\n\\r\\n.title2 {\\r\\n  font-size: 35px;\\r\\n  font-family: 'skyrim', sans-serif;\\r\\n  background: #BABABA;\\r\\n  background: radial-gradient(circle farthest-corner at bottom right, #BABABA 0%, #FFFFFF 100%);\\r\\n  -webkit-background-clip: text;\\r\\n  -webkit-text-fill-color: transparent;\\r\\n}\\r\\n\\r\\n.refresh {\\r\\n  border-radius: 5px;\\r\\n  -webkit-background-clip: text;\\r\\n  -webkit-text-fill-color: transparent;\\r\\n}\\r\\n\\r\\n.warrior {\\r\\n  font-family: 'skyrim', sans-serif;\\r\\n  font-size: 20px;\\r\\n  color: #fff;\\r\\n  width: 90%;\\r\\n}\\r\\n\\r\\nform {\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  padding: 50px;\\r\\n  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -webkit-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  -moz-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);\\r\\n  border: #BABABA solid 1px;\\r\\n  border-radius: 20px;\\r\\n}\\r\\n\\r\\n.submit {\\r\\n  align-self: flex-end;\\r\\n}\\r\\n\\r\\n.playerList {\\r\\n  list-style: none;\\r\\n  padding: 0;\\r\\n  width: 100%;\\r\\n  height: 400px;\\r\\n  background-color: #fff;\\r\\n  overflow-y: scroll;\\r\\n  background-color: transparent;\\r\\n}\\r\\n\\r\\nul li {\\r\\n  padding: 5px;\\r\\n  width: 90%;\\r\\n  margin: none;\\r\\n}\\r\\n\\r\\nul li:nth-child(odd) {\\r\\n  background-color: rgb(63, 63, 63, 0.5);\\r\\n}\\r\\nul li:nth-child(1) {\\r\\n  border-radius: 5px 5px 0 0;\\r\\n}\\r\\n\\r\\nul li:nth-child(even) {\\r\\n  background-color: rgba(136, 135, 135, 0.5);\\r\\n}\\r\\n\\r\\nul li:last-child {\\r\\n  border-radius: 0 0 5px 5px;\\r\\n}\\r\\n\\r\\n.add-score {\\r\\n  font-size: 50px;\\r\\n  font-family: 'skyrim', sans-serif;\\r\\n  color: #fff;\\r\\n}\\r\\n\\r\\n#name {\\r\\n  padding: 10px;\\r\\n  font-size: 24px;\\r\\n  border-width: 0px;\\r\\n  border-color: #CCCCCC;\\r\\n  background-color: #8e8c8c;\\r\\n  color: #ffffff;\\r\\n  border-style: hidden;\\r\\n  border-radius: 10px;\\r\\n  box-shadow: 2px 1px 9px rgba(215,78,78,.89);\\r\\n  \\r\\n}\\r\\n\\r\\n#name:focus {\\r\\n  outline:none;\\r\\n}\\r\\n\\r\\n#score {\\r\\n  padding: 10px;\\r\\n  font-size: 24px;\\r\\n  border-width: 0px;\\r\\n  border-color: #CCCCCC;\\r\\n  background-color: #8e8c8c;\\r\\n  color: #ffffff;\\r\\n  border-style: hidden;\\r\\n  border-radius: 10px;\\r\\n  box-shadow: 2px 1px 9px rgba(215,78,78,.89);\\r\\n}\\r\\n\\r\\n#score:focus {\\r\\n  outline:none;\\r\\n}\\r\\n\\r\\n.btn-flip {\\r\\n  opacity: 1;\\r\\n  outline: 0;\\r\\n  color: #fff;\\r\\n  line-height: 40px;\\r\\n  position: relative;\\r\\n  text-align: center;\\r\\n  font-size: 20px;\\r\\n  display: inline-block;\\r\\n  text-decoration: none;\\r\\n  font-family: 'skyrim', sans-serif;\\r\\n  text-transform: uppercase;\\r\\n}\\r\\n.btn-flip:hover:after {\\r\\n  opacity: 1;\\r\\n  transform: translateY(0) rotateX(0);\\r\\n}\\r\\n.btn-flip:hover:before {\\r\\n  opacity: 0;\\r\\n  transform: translateY(50%) rotateX(90deg);\\r\\n}\\r\\n.btn-flip:after {\\r\\n  top: 0;\\r\\n  left: 0;\\r\\n  opacity: 0;\\r\\n  width: 100%;\\r\\n  color: #323237;\\r\\n  display: block;\\r\\n  transition: 0.5s;\\r\\n  position: absolute;\\r\\n  background: #adadaf;\\r\\n  content: attr(data-back);\\r\\n  transform: translateY(-50%) rotateX(90deg);\\r\\n}\\r\\n.btn-flip:before {\\r\\n  top: 0;\\r\\n  left: 0;\\r\\n  opacity: 1;\\r\\n  color: #adadaf;\\r\\n  display: block;\\r\\n  padding: 0 30px;\\r\\n  line-height: 40px;\\r\\n  transition: 0.5s;\\r\\n  position: relative;\\r\\n  background: #323237;\\r\\n  content: attr(data-front);\\r\\n  transform: translateY(0) rotateX(0);\\r\\n}\\r\\n\\r\\n@media screen and (max-width: 768px) {\\r\\n  main {\\r\\n    flex-direction: column-reverse;\\r\\n  }\\r\\n\\r\\n  .title {\\r\\n    font-size: 30px;\\r\\n    text-align: center;\\r\\n  }\\r\\n\\r\\n  .title2 {\\r\\n    text-align: center;\\r\\n  }\\r\\n\\r\\n  ul {\\r\\n    align-self: center;\\r\\n    max-width: 65%;\\r\\n  }\\r\\n\\r\\n  ul li {\\r\\n    text-align: center;\\r\\n  }\\r\\n}\\r\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack_template/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -30,6 +30,16 @@ eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/runtime/getUrl.js":
+/*!********************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
+  \********************************************************/
+/***/ ((module) => {
+
+eval("\n\nmodule.exports = function (url, options) {\n  if (!options) {\n    options = {};\n  }\n\n  if (!url) {\n    return url;\n  }\n\n  url = String(url.__esModule ? url.default : url); // If url is already wrapped in quotes, remove them\n\n  if (/^['\"].*['\"]$/.test(url)) {\n    url = url.slice(1, -1);\n  }\n\n  if (options.hash) {\n    url += options.hash;\n  } // Should url be wrapped?\n  // See https://drafts.csswg.org/css-values-3/#urls\n\n\n  if (/[\"'() \\t\\n]|(%20)/.test(url) || options.needQuotes) {\n    return \"\\\"\".concat(url.replace(/\"/g, '\\\\\"').replace(/\\n/g, \"\\\\n\"), \"\\\"\");\n  }\n\n  return url;\n};\n\n//# sourceURL=webpack://webpack_template/./node_modules/css-loader/dist/runtime/getUrl.js?");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/runtime/noSourceMaps.js":
 /*!**************************************************************!*\
   !*** ./node_modules/css-loader/dist/runtime/noSourceMaps.js ***!
@@ -37,6 +47,16 @@ eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n
 /***/ ((module) => {
 
 eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=webpack://webpack_template/./node_modules/css-loader/dist/runtime/noSourceMaps.js?");
+
+/***/ }),
+
+/***/ "./src/audio/levelup.mp3":
+/*!*******************************!*\
+  !*** ./src/audio/levelup.mp3 ***!
+  \*******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"14a635ef2ebd802a19c3357b6999e525.mp3\");\n\n//# sourceURL=webpack://webpack_template/./src/audio/levelup.mp3?");
 
 /***/ }),
 
@@ -116,7 +136,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _modules_API_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/API.js */ \"./src/modules/API.js\");\n/* harmony import */ var _modules_display_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/display.js */ \"./src/modules/display.js\");\n\n\n\n\nconst submit = document.getElementById('submit');\nconst refresh = document.querySelector('.refresh');\nconst name = document.getElementById('name');\nconst score = document.getElementById('score');\n\n(0,_modules_display_js__WEBPACK_IMPORTED_MODULE_2__.displayPlayers)();\n\nrefresh.addEventListener('click', () => {\n    (0,_modules_display_js__WEBPACK_IMPORTED_MODULE_2__.displayPlayers)();\n});\n\nsubmit.addEventListener('click', () => {\n    (0,_modules_API_js__WEBPACK_IMPORTED_MODULE_1__.setScores)(name.value, score.value);\n    name.value= '';\n    score.value= '';\n});\n\n\n//# sourceURL=webpack://webpack_template/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _modules_API_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/API.js */ \"./src/modules/API.js\");\n/* harmony import */ var _modules_display_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/display.js */ \"./src/modules/display.js\");\n/* harmony import */ var _src_audio_levelup_mp3__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../src/audio/levelup.mp3 */ \"./src/audio/levelup.mp3\");\n\n\n\n\n\nconst submit = document.getElementById('submit');\nconst refresh = document.querySelector('.refresh');\nconst name = document.getElementById('name');\nconst score = document.getElementById('score');\nconst audio = new Audio(_src_audio_levelup_mp3__WEBPACK_IMPORTED_MODULE_3__[\"default\"])\n\n;(0,_modules_display_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n\nrefresh.addEventListener('click', () => {\n  (0,_modules_display_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n});\n\nsubmit.addEventListener('click', () => {\n  if(name.value !== '' && score.value !== ''){\n    audio.play();\n  }\n  (0,_modules_API_js__WEBPACK_IMPORTED_MODULE_1__.setScores)(name.value, score.value);\n  name.value = '';\n  score.value = '';\n});\n\n\n//# sourceURL=webpack://webpack_template/./src/index.js?");
 
 /***/ }),
 
@@ -126,7 +146,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"getScores\": () => (/* binding */ getScores),\n/* harmony export */   \"setScores\": () => (/* binding */ setScores)\n/* harmony export */ });\nconst api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/6RKhuxySSohuLlFSECHK/scores'\r\n\r\nconst getScores = async () => {\r\n    const response = await fetch(api);\r\n    const scores = await response.json();\r\n    return scores;\r\n}\r\n\r\nconst setScores = async (username, userscore) => {\r\n    const response = await fetch(api, {\r\n        method: 'POST',\r\n        headers: {\r\n            'Content-Type' : 'application/json'\r\n        },\r\n        body: JSON.stringify({user: username, score: userscore}),\r\n    });\r\n    const scores = response.json();\r\n    return scores;\r\n};\r\n\r\n\n\n//# sourceURL=webpack://webpack_template/./src/modules/API.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"getScores\": () => (/* binding */ getScores),\n/* harmony export */   \"setScores\": () => (/* binding */ setScores)\n/* harmony export */ });\nconst api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/6RKhuxySSohuLlFSECHK/scores';\n\nconst getScores = async () => {\n  const response = await fetch(api);\n  const scores = await response.json();\n  return scores;\n};\n\nconst setScores = async (username, userscore) => {\n  const response = await fetch(api, {\n    method: 'POST',\n    headers: {\n      'Content-Type': 'application/json',\n    },\n    body: JSON.stringify({ user: username, score: userscore }),\n  });\n  const scores = response.json();\n  return scores;\n};\n\n\n//# sourceURL=webpack://webpack_template/./src/modules/API.js?");
 
 /***/ }),
 
@@ -136,7 +156,47 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"displayPlayers\": () => (/* binding */ displayPlayers)\n/* harmony export */ });\n/* harmony import */ var _API_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./API.js */ \"./src/modules/API.js\");\n\r\n\r\nconst playerList = document.querySelector('.playerList');\r\n\r\nconst displayPlayers = () =>{\r\n    if(playerList.querySelectorAll('li')) {\r\n      Array.from(playerList.querySelectorAll('li')).forEach((li) =>{\r\n          playerList.removeChild(li);\r\n      });\r\n    }\r\n\r\n    (0,_API_js__WEBPACK_IMPORTED_MODULE_0__.getScores)().then((result) => {\r\n        const orderScores = result.result.sort((a,b) => b.score - a.score);\r\n        orderScores.forEach((score) => {\r\n            const li = document.createElement('li');\r\n            li.className = 'item';\r\n            const p = document.createElement('p');\r\n            const text = document.createTextNode(`${score.user}: ${score.score}`);\r\n            p.appendChild(text);\r\n            li.appendChild(p);\r\n            playerList.appendChild(li);\r\n        });\r\n    });\r\n};\r\n\n\n//# sourceURL=webpack://webpack_template/./src/modules/display.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _API_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./API.js */ \"./src/modules/API.js\");\n\n\nconst playerList = document.querySelector('.playerList');\n\nconst displayPlayers = () => {\n  if (playerList.querySelectorAll('li')) {\n    Array.from(playerList.querySelectorAll('li')).forEach((li) => {\n      playerList.removeChild(li);\n    });\n  }\n\n  (0,_API_js__WEBPACK_IMPORTED_MODULE_0__.getScores)().then((result) => {\n    const orderScores = result.result.sort((a, b) => b.score - a.score);\n    orderScores.forEach((score) => {\n      const li = document.createElement('li');\n      li.className = 'item';\n      const p = document.createElement('p');\n      p.className = 'warrior';\n      const text = document.createTextNode(`${score.user}: ${score.score}`);\n      p.appendChild(text);\n      li.appendChild(p);\n      playerList.appendChild(li);\n    });\n  });\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (displayPlayers);\n\n//# sourceURL=webpack://webpack_template/./src/modules/display.js?");
+
+/***/ }),
+
+/***/ "./src/fonts/darkxshadowx215c27s_skyrim_font-webfont.woff2":
+/*!*****************************************************************!*\
+  !*** ./src/fonts/darkxshadowx215c27s_skyrim_font-webfont.woff2 ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"46854cbe3445235fcc60.woff2\";\n\n//# sourceURL=webpack://webpack_template/./src/fonts/darkxshadowx215c27s_skyrim_font-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./src/img/PikPng.com_skyrim-logo-png_2942489.png":
+/*!********************************************************!*\
+  !*** ./src/img/PikPng.com_skyrim-logo-png_2942489.png ***!
+  \********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"img/2bbc6556fad27dac78ca.png\";\n\n//# sourceURL=webpack://webpack_template/./src/img/PikPng.com_skyrim-logo-png_2942489.png?");
+
+/***/ }),
+
+/***/ "./src/img/line-dragon-frame-47eceda9a578f549d0de9483f68a9700.png":
+/*!************************************************************************!*\
+  !*** ./src/img/line-dragon-frame-47eceda9a578f549d0de9483f68a9700.png ***!
+  \************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"img/4edfb12b55b8943c40f5.png\";\n\n//# sourceURL=webpack://webpack_template/./src/img/line-dragon-frame-47eceda9a578f549d0de9483f68a9700.png?");
+
+/***/ }),
+
+/***/ "./src/img/skyrimg_background.jpg":
+/*!****************************************!*\
+  !*** ./src/img/skyrimg_background.jpg ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"img/f959c8ec0bf60936a6e7.jpg\";\n\n//# sourceURL=webpack://webpack_template/./src/img/skyrimg_background.jpg?");
 
 /***/ })
 
@@ -166,6 +226,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 		return module.exports;
 /******/ 	}
 /******/ 	
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = __webpack_modules__;
+/******/ 	
 /************************************************************************/
 /******/ 	/* webpack/runtime/compat get default export */
 /******/ 	(() => {
@@ -191,6 +254,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -205,6 +280,52 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/jsonp chunk loading */
+/******/ 	(() => {
+/******/ 		__webpack_require__.b = document.baseURI || self.location.href;
+/******/ 		
+/******/ 		// object to store loaded and loading chunks
+/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
+/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
+/******/ 		var installedChunks = {
+/******/ 			"main": 0
+/******/ 		};
+/******/ 		
+/******/ 		// no chunk on demand loading
+/******/ 		
+/******/ 		// no prefetching
+/******/ 		
+/******/ 		// no preloaded
+/******/ 		
+/******/ 		// no HMR
+/******/ 		
+/******/ 		// no HMR manifest
+/******/ 		
+/******/ 		// no on chunks loaded
+/******/ 		
+/******/ 		// no jsonp function
 /******/ 	})();
 /******/ 	
 /************************************************************************/

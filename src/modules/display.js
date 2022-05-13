@@ -15,6 +15,7 @@ const displayPlayers = () => {
       const li = document.createElement('li');
       li.className = 'item';
       const p = document.createElement('p');
+      p.className = 'warrior';
       const text = document.createTextNode(`${score.user}: ${score.score}`);
       p.appendChild(text);
       li.appendChild(p);
